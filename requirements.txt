@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#try_friends_package
+git+https://github.com/arnaudrg/ohmypitch
